@@ -9,8 +9,8 @@ We will now be downloading Anaconda, which is a very powerful distribution of Py
 * MacOs users download [here](https://repo.anaconda.com/archive/Anaconda3-2020.02-MacOSX-x86_64.pkg)
 * Linux users download [here](https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh) \
 Now run the downloaded file and it will install **Anaconda Navigator**, **Anaconda Powershell Prompt** and **Anaconda Prompt** onto your system as <br>
-![](https://github.com/kickereb/Python_ML_Workshop/blob/master/Images/Statrt_menu.png)
+![](https://github.com/kickereb/Python_ML_Workshop/blob/master/Images/Statrt_menu.png) <br>
 Now go ahead and open **Anaconda Powershell Prompt**. <br>
-You will now be able to see a window like <br>
+You will now be able to see a window like <br> <br>
 ![](https://github.com/kickereb/Python_ML_Workshop/blob/master/Images/prompt.png) <br>
 ## Creating an Environment
