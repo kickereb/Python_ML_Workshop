@@ -1,0 +1,5 @@
+conda create -n evam_python_ml python=3.7
+conda install -n evam_python_ml tensorflow
+conda install -n evam_python_ml keras
+conda install -n evam_python_ml matplotlib
+conda install -n evam_python_ml jupyter
