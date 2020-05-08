@@ -1,2 +1,2 @@
 # Python_ML_Workshop
-Initialising repo
+## Welcome to the *"Machine Learning Basics with Python"* Workshop
