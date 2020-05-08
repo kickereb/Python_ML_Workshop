@@ -17,6 +17,13 @@ You will now be able to see a window like <br> <br>
 So now that you have installed Anaconda and opened Anaconda Powershell Prompt, you can head over to installing the required libraries. <br>
 These libraries are important packages that our program will need in order to <br>Go to [this](https://github.com/kickereb/Python_ML_Workshop/blob/master/script.txt) link and copy all the text from the file. Now paste this text into the Prompt window.(Note that you will have to use 'ctrl+v' shortcut to paste into the prompt window.) <br>
 ![](https://github.com/kickereb/Python_ML_Workshop/blob/master/Images/paste_script.png)
-Now press enter and it should ask you to procede to which press 'y' and then enter. After this it will begin a download sequence and create an environment.  <br>
+Now press enter and it should ask you to 'procede' to which press 'y' and then enter. After this it will begin a download sequence and create an environment.  <br>
 ![](https://github.com/kickereb/Python_ML_Workshop/blob/master/Images/choice.png) <br>
-After ansering all necessary 'Proceed ([y]/n)?' with a 'y', you will end up with
+After answering all necessary 'Proceed ([y]/n)?' with a 'y', you will end up with
+![](https://github.com/kickereb/Python_ML_Workshop/blob/master/Images/done_env.png) <br>
+Congratulations now! <br>
+This setup will help you in any python development projects that you initiate. I will teach you how to use it in the workshop and how you can get the best out of it. <br>
+If you face any difficulty in the above stated steps you can contact me on my whatsapp contact **+91 9067649061**. <br>
+Or you can e-mail me at **evam.kaushik@sitpune.edu.in**. <br>
+
+[CHRZ1251](https://colab.research.google.com/notebooks/intro.ipynb)
