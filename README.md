@@ -12,7 +12,7 @@ Now run the downloaded file and it will install **Anaconda Navigator**, **Anacon
 ![](https://github.com/kickereb/Python_ML_Workshop/blob/master/Images/Statrt_menu.png)
 <br>
 Now go ahead and open **Anaconda Powershell Prompt**. <br>
-You will now be able to see a window like <br>
+You will now be able to see a window like \
 ![](https://github.com/kickereb/Python_ML_Workshop/blob/master/Images/prompt.png)
-<br>
+ \
 ## Creating an Environment
