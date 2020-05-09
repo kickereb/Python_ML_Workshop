@@ -6,8 +6,9 @@ Let's get started.
 ## Installing Anaconda
 We will now be downloading Anaconda, which is a very powerful distribution of Python that focuses on scientific computing. Depending on your operating system choose a suitable file and the download will begin immediately. Note that the file size is nearly 500 MB so make sure you have a stable internet connection.\
 * Windows users download [here](https://repo.anaconda.com/archive/Anaconda3-2020.02-Windows-x86_64.exe)
-* MacOs users download [here](https://repo.anaconda.com/archive/Anaconda3-2020.02-MacOSX-x86_64.pkg)
-* Linux users download [here](https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh) \
+* MacOS users download [here](https://repo.anaconda.com/archive/Anaconda3-2020.02-MacOSX-x86_64.pkg)
+* Linux users download [here](https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh) <br>
+You can use [this](https://docs.anaconda.com/anaconda/install/) guide if you face any issues or you can contact me (contact details at the end of page) <br>
 Now run the downloaded file and it will install **Anaconda Navigator**, **Anaconda Powershell Prompt** and **Anaconda Prompt** onto your system as <br>
 ![](https://github.com/kickereb/Python_ML_Workshop/blob/master/Images/Statrt_menu.png) <br>
 Now go ahead and open **Anaconda Powershell Prompt**. <br>
